@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rutas"
+    }
+  },
+  "defaultProject": "rutas",
+  "cli": {
+    "analytics": "84a75d0b-6506-42d2-b913-d7925a032068"
+  }
 }
